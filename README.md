@@ -26,6 +26,16 @@ A Chrome extension that allows you to quickly search Grok directly from your bro
    - Switch to an existing Grok tab if one is already open
 5. Your search will be automatically executed on Grok
 
+## Quick Start: How to Use Grok Direct
+
+1. **Open the Grok Direct extension popup** (by clicking the icon or using the keyboard shortcut):
+
+   ![Ask a question in the popup](images/question.png)
+
+2. **Type your question and submit.** Grok.com will open (or be focused), your question will be pasted and submitted automatically, and you'll see the response:
+
+   ![See the response on Grok.com](images/response.png)
+
 ## Development
 
 The extension consists of the following files:
